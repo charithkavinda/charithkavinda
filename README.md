@@ -80,19 +80,19 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/charithkavinda001" target="_blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn" height="25"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" alt="LinkedIn" height="30"/>
   </a>&nbsp
   <a href="https://fb.com/charithkavinda001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="25"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30"/>
   </a>&nbsp
   <a href="https://instagram.com/charithkavinda001" target="_blank">
-    <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" alt="Instagram" height="25"/>
+    <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Instagram.svg" alt="Instagram" height="30"/>
   </a>&nbsp
   <a href="https://www.hackerrank.com/charithkavinda31" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="25"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/>
   </a>&nbsp
   <a href="https://leetcode.com/charithkavinda001" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25"/>
   </a>
 </p>
 
