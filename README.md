@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Charith Kavinda</h1>
-<h3 align="center">💻 Web Developer | 🎓 IT Student | Based in Sri Lanka</h3>
+<h3 align="center">💻 Web Developer | 🎨 Graphic Designer | 🎓 IT Student | Based in Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charithkavinda&label=Profile%20views&color=0e75b6&style=flat" alt="charithkavinda" />
@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools :</h3><br>
+<h2 align="center">Languages and Tools :</h2><br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,mongodb,mysql,php,python,git,github,linux" />
@@ -62,7 +62,7 @@
 
 ---
 
-<h3 align="center">Connect with Me :</h3><br>
+<h2 align="center">Connect with Me :</h2><br>
 
 <p align="center">
   <a href="https://linkedin.com/in/charithkavinda001" target="_blank">
@@ -122,7 +122,7 @@
 
 ---
 
-<h3 align="center">Support Me :</h3>
+<h2 align="center">Support Me :</h2>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/charith_kavinda" target="_blank">
