@@ -119,6 +119,6 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/charith_kavinda" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee" />
   </a>
 </p>
